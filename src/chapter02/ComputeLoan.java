@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by bonzo on 1/11/15.
+ *
  */
 public class ComputeLoan {
     public static void main(String[] args) {
